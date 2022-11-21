@@ -1,0 +1,12 @@
+[submodule "AFE"]
+	path = AFE
+	url = https://github.com/phil2988/AFE.git
+[submodule "MAL"]
+	path = MAL
+	url = https://github.com/phil2988/MAL.git
+[submodule "IOT"]
+	path = IOT
+	url = https://github.com/phil2988/IOT.git
+[submodule "UXD"]
+	path = UXD
+	url = https://github.com/phil2988/UXD.git
