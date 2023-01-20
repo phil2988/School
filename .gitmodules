@@ -10,3 +10,6 @@
 [submodule "UXD"]
 	path = UXD
 	url = https://github.com/phil2988/UXD.git
+[submodule "E7BAC"]
+	path = E7BAC
+	url = https://github.com/phil2988/E7BAC.git
